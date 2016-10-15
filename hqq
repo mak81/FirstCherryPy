@@ -1,0 +1,65 @@
+[33mcommit d7c499606dcd58607c30ccbd4d505996d13cb45f[m
+Author: Sylvain Hellegouarch <sylvain@atomist.com>
+Date:   Fri Oct 14 09:41:10 2016 +0200
+
+    bump
+
+[33mcommit cae5113ccbc2c6aa70808bd4d062a3e80d3e3043[m
+Author: Sylvain Hellegouarch <sylvain@atomist.com>
+Date:   Fri Oct 14 09:40:52 2016 +0200
+
+    Not a dependency for this generator
+
+[33mcommit 7ca231d18936a77881a57a1189d82010cdc9efea[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Tue Oct 4 16:06:36 2016 +0200
+
+    bump
+
+[33mcommit 5a3e74d5a4ac344edbd8d353c57fd6477f6f47a5[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Tue Oct 4 16:06:15 2016 +0200
+
+    Set more relevant default version
+
+[33mcommit 5214c5586387b7472add571abf6a33530d676acf[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Mon Oct 3 17:17:37 2016 +0200
+
+    Exclude .idea subdir
+
+[33mcommit 716f96f34d7df846680fefb82d804a5a9695e6e1[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Mon Oct 3 17:16:33 2016 +0200
+
+    bump
+
+[33mcommit 8a3427da398daa5fc8d73d3dc87b9badd3b2e687[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Mon Oct 3 17:16:12 2016 +0200
+
+    Release
+
+[33mcommit 17ee6798a154f02eea201bda56e50cc0c9c68de5[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Mon Oct 3 17:15:47 2016 +0200
+
+    Add generator licensing
+
+[33mcommit 870dcc650e91318932d7508ad20541f424807c28[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Sun Oct 2 22:18:30 2016 +0200
+
+    shouldn't be there
+
+[33mcommit 3247bac5e95e6aeea16d72a398ad6e68e71d802a[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Sun Oct 2 22:17:25 2016 +0200
+
+    used for publishing generator
+
+[33mcommit 203f9892af223e0992b351c43845b0129cac7c0b[m
+Author: Sylvain Hellegouarch <sh@defuze.org>
+Date:   Sun Oct 2 22:15:16 2016 +0200
+
+    initial import
